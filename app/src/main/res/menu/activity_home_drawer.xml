@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_renewals"
+            android:icon="@drawable/ic_renewal"
+            android:title="Renewals" />
+
+        <item
+            android:id="@+id/nav_appointments"
+            android:icon="@drawable/ic_appointment"
+            android:title="Appointments" />
+
+        <item
+            android:id="@+id/nav_todolist"
+            android:icon="@drawable/ic_todo_list"
+            android:title="To do list" />
+
+        <item
+            android:id="@+id/nav_customers"
+            android:icon="@drawable/ic_customers"
+            android:title="Customers" />
+
+        <item
+            android:id="@+id/nav_leads"
+            android:icon="@drawable/ic_leads"
+            android:title="Leads" />
+
+        <item
+            android:id="@+id/nav_quotations"
+            android:icon="@drawable/ic_quotations"
+            android:title="Quotations" />
+
+        <item
+            android:id="@+id/nav_policies"
+            android:icon="@drawable/ic_policy"
+            android:title="Policies" />
+
+        <item
+            android:id="@+id/nav_claims"
+            android:icon="@drawable/ic_claims"
+            android:title="Claims" />
+
+        <item
+            android:id="@+id/nav_certificates"
+            android:icon="@drawable/ic_car"
+            android:title="Motor Certificates" />
+
+        <item
+            android:id="@+id/nav_reports"
+            android:icon="@drawable/ic_reports"
+            android:title="Reports" />
+    </group>
+</menu>

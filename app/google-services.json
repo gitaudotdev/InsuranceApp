@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1005216997151",
+    "firebase_url": "https://insurancepro097.firebaseio.com",
+    "project_id": "insurancepro097",
+    "storage_bucket": "insurancepro097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005216997151:android:dfdf7768fa86b22c",
+        "android_client_info": {
+          "package_name": "ke.co.insuranceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005216997151-cap4uvjid0efn8ddehroalnftp549bma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4oNcWs__3TW9-jorsY9UTx1n0D9MrRI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005216997151:android:a8c01e4a8f0fb1d8",
+        "android_client_info": {
+          "package_name": "ke.co.talin.insurancepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005216997151-8m4gbpoi9nns6hjabohml3qhgpepbilp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.talin.insurancepro",
+            "certificate_hash": "8fce4a1cf6867bff46b94b68405760df04443552"
+          }
+        },
+        {
+          "client_id": "1005216997151-cap4uvjid0efn8ddehroalnftp549bma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4oNcWs__3TW9-jorsY9UTx1n0D9MrRI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005216997151-cap4uvjid0efn8ddehroalnftp549bma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

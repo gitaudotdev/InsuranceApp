@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types" >
+        <item>Call</item>
+        <item>SMS</item>
+        <item>Visit</item>
+        <item>Email</item>
+        <item>WhatsApp</item>
+    </string-array>
+
+
+    <string-array name="status" >
+        <item>Draft</item>
+        <item>Declined</item>
+        <item>Confirmed</item>
+    </string-array>
+
+
+    <string-array name="Makes">
+        <item>Ford </item>
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Chevy</item>
+        <item>Nissan</item>
+        <item>Kia</item>
+        <item>Hyundai</item>
+        <item>Mazda</item>
+        <item>Mitsubishi</item>
+        <item>Volkswagen</item>
+        <item>Subaru</item>
+
+    </string-array>
+
+    <string-array name="Models">
+        <item>Chevy Sonic</item>
+        <item>Ford Fiesta</item>
+        <item>Honda Fit</item>
+        <item>Hyundai Accent</item>
+        <item>Kia Rio</item>
+        <item>Mazda2.</item>
+        <item>Mitsubishi Mirage</item>
+        <item>Nissan Versa</item>
+        <item>Toyota Yaris</item>
+        <item>Chevy Cruze</item>
+        <item>Ford Focus</item>
+        <item>Honda Civic</item>
+        <item>Hyundai Elantra</item>
+        <item>Kia Forte</item>
+        <item>Mazda3</item>
+        <item>Mitsubishi Lancer</item>
+        <item>Nissan Sentra</item>
+        <item>Subaru Impreza </item>
+        <item>Volkswagen Golf</item>
+        <item> Volkswagen Jetta</item>
+        <item>Volkswagen Beetle</item>
+        <item>Chevy Malibu</item>
+        <item>Ford Fusion</item>
+        <item>Honda Accord</item>
+        <item>Hyundai Sonata</item>
+        <item>Hyundai Azera</item>
+        <item>Kia Optima</item>
+        <item>Mazda6</item>
+        <item>Nissan Altima</item>
+        <item>Subaru Legacy</item>
+        <item>Toyota Camry</item>
+        <item>Volkswagen Passat</item>
+        <item>Chevy Impala</item>
+        <item>Ford Taurus</item>
+        <item>Kia Cadenza</item>
+        <item>Nissan Maxima</item>
+        <item>Toyota Avalon</item>
+        <item>Jeep Grand Cherokee</item>
+        <item>Kia Sorento</item>
+        <item>Toyota 4Runner</item>
+        <item>Toyota Land Cruiser</item>
+    </string-array>
+
+    <string-array name="Covers">
+        <item>Liability Coverage</item>
+        <item>Third party only </item>
+        <item>Comprehensive</item>
+        <item>Motorcycle insurance</item>
+        <item>Towing nad Rescue </item>
+        <item>Little psv</item>
+    </string-array>
+
+
+</resources>

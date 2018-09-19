@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c80b5</color>
+    <color name="colorPrimaryDark">#2c80b5</color>
+    <color name="colorAccent">#2c80b5</color>
+    <color name="colorTransluscent_black">#b12c80b5</color>
+
+    <color name="bgColor">#f4fdff</color>
+
+    <color name="bgColorGray">#f1292929</color>
+    <color name="bgColorGray2">#7b292929</color>
+
+    <color name="btnSignUp">#39796b</color>
+    <color name="btnsignActive">#A9d440</color>
+
+    <color name="colorTransluscent">#b12c80b5</color>
+    <color name="colorTransluscent_1">#b12c80b5</color>
+
+    <color name="rejectedRed">#bc0000</color>
+    <color name="rejectedRed_Transluscent">#b1bc0000</color>
+    <color name="approved_color">#00ac78</color>
+    <color name="approved_color_transluscent">#b100ac78</color>
+</resources>
